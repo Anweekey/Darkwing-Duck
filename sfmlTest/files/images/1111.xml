@@ -1,0 +1,10 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="bullet.png" transparentColor="FFFFFF">
+ <animation title="Default animation" delay="150"/>
+ <animation title="Bang" delay="150">
+  <cut w="6" x="52" y="69" h="9" row="1" col="1"/>
+  <cut w="15" x="62" y="66" h="15" row="1" col="1"/>
+  <cut w="18" x="81" y="66" h="15" row="1" col="1"/>
+  <cut w="17" x="103" y="66" h="14" row="1" col="1"/>
+ </animation>
+</sprites>

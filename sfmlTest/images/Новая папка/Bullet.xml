@@ -1,0 +1,13 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Bullet.png" transparentColor="FFFFFF">
+ <animation title="Bullet" delay="150">
+  <cut w="7" x="-0.5" y="6" h="5" row="1" col="1"/>
+  <cut w="6" x="11" y="6" h="5" row="1" col="1"/>
+  <cut w="6" x="22" y="5" h="8" row="1" col="1"/>
+  <cut w="6" x="33" y="5" h="8" row="1" col="1"/>
+ </animation>
+ <animation title="Arrow" delay="150">
+  <cut w="24" x="1" y="20" h="7" row="1" col="1"/>
+  <cut w="24" x="30" y="20" h="7" row="1" col="1"/>
+ </animation>
+</sprites>

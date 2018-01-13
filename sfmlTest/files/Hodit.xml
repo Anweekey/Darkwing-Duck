@@ -1,0 +1,59 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="Duckii.png" transparentColor="FFFFFF">
+ <animation title="Hodit" delay="230">
+  <cut w="32" x="0" y="0" h="25" row="1" col="1"/>
+  <cut w="32" x="37" y="1" h="23" row="1" col="1"/>
+  <cut w="33" x="73" y="0" h="25" row="1" col="1"/>
+  <cut w="32" x="111" y="0" h="25" row="1" col="1"/>
+ </animation>
+ <animation title="Jump" delay="230">
+  <cut w="29" x="0" y="28" h="33" row="1" col="1"/>
+  <cut w="26" x="32" y="29" h="33" row="1" col="1"/>
+ </animation>
+ <animation title="Def" delay="230">
+  <cut w="28" x="0" y="64" h="26" row="1" col="1"/>
+  <cut w="27" x="33" y="64" h="26" row="1" col="1"/>
+ </animation>
+ <animation title="Stay" delay="230">
+  <cut w="25" x="0" y="97" h="27" row="1" col="1"/>
+ </animation>
+ <animation title="Sit" delay="230">
+  <cut w="30" x="1" y="136" h="19" row="1" col="1"/>
+  <cut w="24" x="34" y="139" h="16" row="1" col="1"/>
+ </animation>
+ <animation title="Shot" delay="230">
+  <cut w="29" x="1" y="163" h="27" row="1" col="1"/>
+ </animation>
+ <animation title="Hang" delay="230">
+  <cut w="23" x="0" y="196" h="39" row="1" col="1"/>
+  <cut w="22" x="29" y="196" h="39" row="1" col="1"/>
+  <cut w="24" x="56" y="196" h="39" row="1" col="1"/>
+ </animation>
+ <animation title="Start" delay="230">
+  <cut w="31" x="1" y="239" h="30" row="1" col="1"/>
+  <cut w="30" x="36" y="239" h="30" row="1" col="1"/>
+  <cut w="25" x="71" y="242" h="27" row="1" col="1"/>
+  <cut w="26" x="101" y="242" h="27" row="1" col="1"/>
+  <cut w="22" x="132" y="237" h="32" row="1" col="1"/>
+ </animation>
+ <animation title="JumpShot" delay="230">
+  <cut w="29" x="2" y="277" h="33" row="1" col="1"/>
+  <cut w="28" x="36" y="277" h="33" row="1" col="1"/>
+ </animation>
+ <animation title="SitShot" delay="230">
+  <cut w="28" x="2" y="351" h="19" row="1" col="1"/>
+ </animation>
+ <animation title="Damage" delay="230">
+  <cut w="29" x="2" y="418" h="32" row="1" col="1"/>
+  <cut w="29" x="36" y="417" h="33" row="1" col="1"/>
+ </animation>
+ <animation title="Bullet" delay="70">
+  <cut w="6" x="3" y="461" h="4" row="1" col="1"/>
+  <cut w="6" x="14" y="461" h="4" row="1" col="1"/>
+  <cut w="6" x="25" y="459" h="8" row="1" col="1"/>
+  <cut w="6" x="36" y="459" h="8" row="1" col="1"/>
+ </animation>
+ <animation title="I_am_Duck" delay="230">
+  <cut w="62" x="0" y="376" h="34" row="1" col="1"/>
+ </animation>
+</sprites>

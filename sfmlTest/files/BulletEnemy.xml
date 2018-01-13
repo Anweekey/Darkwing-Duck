@@ -1,0 +1,10 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="67163.png" transparentColor="F478FC">
+ <animation title="WeaponDuck2" delay="150">
+  <cut w="11" x="249" y="181" h="6" row="1" col="1"/>
+ </animation>
+ <animation title="WeaponTurtles" delay="150">
+  <cut w="16" x="400" y="1072" h="15" row="1" col="1"/>
+  <cut w="14" x="401" y="1098" h="16" row="1" col="1"/>
+ </animation>
+</sprites>

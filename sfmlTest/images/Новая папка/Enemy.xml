@@ -1,0 +1,41 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="67163.png" transparentColor="F478FC">
+ <animation title="Duck1" delay="230">
+  <cut w="32" x="27" y="24" h="25" row="1" col="1"/>
+  <cut w="32" x="76" y="22" h="26" row="1" col="1"/>
+ </animation>
+ <animation title="JumpDuck1" delay="230">
+  <cut w="25" x="276" y="18" h="31" row="1" col="1"/>
+ </animation>
+ <animation title="BatSleep" delay="230">
+  <cut w="14" x="33" y="79" h="20" row="1" col="1"/>
+ </animation>
+ <animation title="Bat" delay="230">
+  <cut w="22" x="69" y="79" h="16" row="1" col="1"/>
+  <cut w="24" x="114" y="78" h="19" row="1" col="1"/>
+ </animation>
+ <animation title="Turtle" delay="230">
+  <cut w="22" x="30" y="135" h="15" row="1" col="1"/>
+  <cut w="22" x="68" y="136" h="15" row="1" col="1"/>
+ </animation>
+ <animation title="TurtleAni" delay="230">
+  <cut w="18" x="113" y="127" h="24" row="1" col="1"/>
+  <cut w="24" x="157" y="134" h="16" row="1" col="1"/>
+ </animation>
+ <animation title="TurtleAttack" delay="230">
+  <cut w="24" x="157" y="134" h="16" row="1" col="1"/>
+ </animation>
+ <animation title="Duck2" delay="230">
+  <cut w="29" x="74" y="168" h="33" row="1" col="1"/>
+  <cut w="27" x="120" y="176" h="24" row="1" col="1"/>
+  <cut w="27" x="167" y="172" h="24" row="1" col="1"/>
+  <cut w="32" x="205" y="176" h="24" row="1" col="1"/>
+ </animation>
+ <animation title="DefDuck2" delay="230">
+  <cut w="29" x="25" y="176" h="24" row="1" col="1"/>
+ </animation>
+ <animation title="Snail" delay="230">
+  <cut w="16" x="105" y="1258" h="16" row="1" col="1"/>
+  <cut w="14" x="141" y="1256" h="18" row="1" col="1"/>
+ </animation>
+</sprites>
